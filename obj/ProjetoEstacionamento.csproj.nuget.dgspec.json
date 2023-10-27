@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj": {}
+    "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj": {
+    "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj",
+        "projectUniqueName": "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj",
         "projectName": "ProjetoEstacionamento",
-        "projectPath": "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj",
+        "projectPath": "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento\\ProjetoEstacionamento.csproj",
         "packagesPath": "C:\\Users\\gabim\\.nuget\\packages\\",
-        "outputPath": "C:\\Documentos\\ProjetoEstacionamento\\obj\\",
+        "outputPath": "C:\\Documentos\\ProjetoEstacionamento\\ProjetoEstacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabim\\AppData\\Roaming\\NuGet\\NuGet.Config"
